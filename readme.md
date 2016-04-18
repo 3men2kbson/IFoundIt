@@ -1,4 +1,4 @@
- # ** Ifoundit **
+# Ifoundit
 
 ## Sistema de rastreo de vehiculos utilizando el GPS tracker TK103.
 
