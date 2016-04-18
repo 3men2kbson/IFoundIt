@@ -4,7 +4,7 @@
 
 Este sistema contará con una base de datos en SQLite donde se almacenará el vehiculo y/o vehiculos a ratrear, ademas en la misma se incluirá todos los comandos del rastreador en una tabla de parametros, guardará un histórico de eventos y un histórico de ubicaciones del vehiculo.
 
-Sera desarrollado en ** android ** para ser utilizado en moviles, en un futuro se convertira a ** XCODE ** para que se pueda utilizar en * IOS * (Moviles Apple).
+Sera desarrollado en **android** para ser utilizado en moviles, en un futuro se convertira a **XCODE** para que se pueda utilizar en *IOS* (Moviles Apple).
 
 ### Lista TO DO
 
