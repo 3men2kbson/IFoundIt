@@ -11,10 +11,10 @@ Sera desarrollado en ** android ** para ser utilizado en moviles, en un futuro s
 **Lista To Do** de las actividades para desarrollo del sistema:
 
 1. Estructura de la Base de Datos
-> Pendiente Crear
+  - Pendiente Crear
 2. Parametros más importante
-> Pendiente Crear    
+  - Pendiente Crear    
 3. Screenshots posibles para el sistema
-> Pendiente Crear
+  - Pendiente Crear
 4. Desarrollo del Sistema en Android Studio
-> Pendiente Crear
+  - Pendiente Crear
