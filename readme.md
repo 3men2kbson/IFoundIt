@@ -11,7 +11,7 @@ Sera desarrollado en **android** para ser utilizado en moviles, en un futuro se 
 **Lista To Do** de las actividades para desarrollo del sistema:
 
 1. Estructura de la Base de Datos
-  - Archivo con la [Estructura](IFoundIt/DbStructure.md/) de la Base de Datos a crear.
+  - Archivo con la [Estructura](DbStructure.md) de la Base de Datos a crear.
 2. Parametros más importante
   - Pendiente Crear    
 3. Screenshots posibles para el sistema
