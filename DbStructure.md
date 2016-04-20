@@ -31,3 +31,24 @@ La Base de Datos se llamará **IWillFindIt** y constará de las siguientes tabla
 | Params   | Text  |  30   |
 | ParamCod | Text  |  30   |
 | Active   | Bool  | T / F |
+
+**Tabla HistEvents**
+
+| Column   | Type  | Long  |
+| :------- | ----: | :---: |
+| IdHEven  | Int   |       |
+| IdParam  | Int   |       |
+| SendRecv | Int   |       |
+| Active   | Bool  | T / F |
+
+**Tabla SMSReceived**
+
+| Column   | Type  | Long  |
+| :------- | ----: | :---: |
+| IdSMSRcv | Int   |       |
+| Date     | Date  |  8    |
+| SMSText  | Text  | 255   |
+| Active   | Bool  | T / F |
+
+> Estas son las tablas que se me ocurren hasta ahora (20-04-2016) 
+> quizas pueden haber otras, me dare cuenta sobre la marcha
