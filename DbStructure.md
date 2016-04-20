@@ -22,3 +22,12 @@ La Base de Datos se llamará **IWillFindIt** y constará de las siguientes tabla
 | Model    | Text  |  20   |
 | Year     | Int   |       |
 | PassWd   | Text  |  6    |
+
+**Tabla Parameters**
+
+| Column   | Type  | Long  |
+| :------- | ----: | :---: |
+| IdParam  | Int   |       |
+| Params   | Text  |  30   |
+| ParamCod | Text  |  30   |
+| Active   | Bool  | T / F |
