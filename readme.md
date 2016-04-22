@@ -13,6 +13,7 @@ Sera desarrollado en **android** para ser utilizado en moviles, en un futuro se 
 1. Estructura de la Base de Datos
   - Archivo con la [Estructura](DbStructure.md) de la ![Base de Datos ] (/Images/db_settings24.bmp " Base de Datos ") a crear.
 2. Parametros más importante
+  - [Manual de usuario](GPS103AB USER MANUAL-20140114.pdf).
   - Pendiente Crear    
 3. Screenshots posibles para el sistema
   - Pendiente Crear
