@@ -14,7 +14,7 @@ Sera desarrollado en **android** para ser utilizado en moviles, en un futuro se 
   - Archivo con la [Estructura](DbStructure.md) de la ![Base de Datos ] (/Images/db_settings24.bmp " Base de Datos ") a crear.
 2. Parametros más importante
   - [Manual de usuario](/Docs/GPS103AB USER MANUAL-20140114.pdf).
-  - Pendiente Crear    
+  - [Lista de Comandos para TK103](/Docs/sms-parancsok-list.pdf)    
 3. Screenshots posibles para el sistema
   - Pendiente Crear
 4. Desarrollo del Sistema en Android Studio
